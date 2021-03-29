@@ -23,9 +23,9 @@ You arrive at a crossroad, where a sign recites: "Be aware, traveler! You're in 
 + Take the left path
 You find the path covered in brambles.
 ++ Use the sword
-You manage to cut all the broumbles on the path, but you find a turning.
+You manage to cut all the broumbles on the path, but you find an intersection.
 +++ Go straight
-You find yourself in another turning.
+You find yourself in another intersection.
 ++++Go straight
 You find a locked door
 +++++Go back
@@ -36,7 +36,7 @@ You find a locked door
 You find a key. You decide to turn back and take the path on your right. At the end of it you find a locked door, that you manage to open with the key you just found.
 ->Chapter_3
 +++ Go Left
-You find a key. With this you manage to open a locked door, to find yourself in another turning.
+You find a key. With this you manage to open a locked door, to find yourself in another intersection.
 ++++Go left
 ->Chapter_2
 ++++Go right
@@ -59,7 +59,7 @@ You decide to drink from the silver cup. nothing appens, then, with a noisy soun
 ++ Go back
 -> Chapter_2
 + Take the right path
-You find yourself in a turning. on the left there's a path, covered in brambles. on the right, a manhole.
+You find yourself in an intersection. on the left there's a path, covered in brambles. on the right, a manhole.
 ++ Go left
 You take the left path, you cut all the brambles with your sword, so you carry on.
 ->Chapter_3
@@ -74,7 +74,7 @@ Sadly, you're back at the bonfire, so you decide to return to the crossroad.
 
 You arrive in an square, with a fountain at the center. In front of you there are two main roads.
 + Take the left road
-you decide to take the left road. Again, you find yourself in a turning.
+you decide to take the left road. Again, you find yourself in an intersection.
 ++ Go left
 You're blocked, so you decide to return to the fountain.
 ->Chapter_3
@@ -100,3 +100,4 @@ you decide to take the right road, but after 30 minutes you realise to have walk
 
 - Great job! You escaped from the Labyrinth!
 ->END
+=
