@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 58b8b9d034d7ed94fb78cdd9732b4cd0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Adlibitum
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 44e866d7b4d72fa409ca8e21166a5d47, type: 3}
+  - {fileID: 12800000, guid: 616359df931fd404eb55b60c1744ff1e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
